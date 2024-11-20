@@ -1,2 +1,6 @@
 # josephus-problem
-simple code to solve the josephus problem in C
+
+Self-developed solution for the classic josephus problem(step = 2).
+The implementation follows an iterative solution.
+
+Time complexity : O(log(n)).
